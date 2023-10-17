@@ -1,4 +1,4 @@
 # MIT_query_data
 Raw_chengdu_TrajectoryRect保存了NDBC中成都数据集的轨迹MBR  
-Raw_chengdu_Candidate保存了NDBC中成都数据集的候选点
+Raw_chengdu_Candidate保存了NDBC中成都数据集的候选点  
 BJG.zip保存了BeiJing数据集的候选点，轨迹
